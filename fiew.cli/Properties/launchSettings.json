@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "fiew.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--start-date 4/30/2021 --end-date 1/1/2028"
+    }
+  }
+}
